@@ -1,0 +1,36 @@
+/* Links
+=================================*/
+a {
+  color: black;
+}
+
+/* Layout
+================================*/
+#myAbout {
+  padding-top: 180px;
+  padding-bottom: 50px;
+
+}
+
+#myWork {
+  padding-top: 180px;
+  padding-bottom: 50px;
+}
+
+#myContact {
+  padding-top: 180px;
+  padding-bottom: 100px;
+}
+
+/* Styles
+====================================*/
+.navbar {
+  background-color: #FFF;
+}
+
+/* Images
+===================================*/
+img {
+  width: 800px;
+  height: 540px;
+}
