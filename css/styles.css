@@ -32,6 +32,11 @@ body,
   margin-top: 300px;
 }
 
+span {
+  color: #ff4d4d;
+  font-family: 'Lucida Console', Monaco, monospace;
+}
+
 
 /* Styles
 ====================================*/
