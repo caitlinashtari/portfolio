@@ -40,3 +40,8 @@ img {
   width: 800px;
   height: 540px;
 }
+
+#imgAbout {
+  width: 500px
+  height: auto;
+}
