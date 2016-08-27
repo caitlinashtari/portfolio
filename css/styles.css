@@ -32,6 +32,10 @@ body,
   margin-top: 300px;
 }
 
+#h3Work {
+  margin-top: 220px;
+}
+
 /* Styles
 ====================================*/
 .navbar {
@@ -62,16 +66,23 @@ img {
   #pAbout {
     margin-top: 255px;
   }
+  #h3Work {
+    margin-top: 220px;
+  }
 }
 
 @media screen and (max-width: 768px) {
   #pAbout {
     margin-top: 255px;
   }
+  #h3Work {
+    margin-top: 220px;
+  }
 }
 
 @media screen and (max-width: 765px) {
-  #pAbout {
+  #pAbout,
+  #h3Work {
     margin-top: 0px;
   }
 }
