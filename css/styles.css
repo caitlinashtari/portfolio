@@ -20,7 +20,6 @@ body,
 #myAbout,
 #myWork {
   padding-top: 180px;
-  padding-bottom: 50px;
 }
 
  #myContact {
@@ -28,13 +27,14 @@ body,
   padding-bottom: 230px;
 }
 
- #pAbout {
-  margin-top: 300px;
-}
-
 #h3Work {
   margin-top: 220px;
 }
+
+#pAbout {
+  margin-top: 0px;
+}
+
 
 /* Styles
 ====================================*/
@@ -57,23 +57,20 @@ img {
 #myAboutImg {
   width: 400px;
   height: 50%;
+  float: left;
+  padding-right: 10px;
 }
 
 /* Media Queries
 =================================*/
 
 @media screen and (max-width: 1000px){
-  #pAbout {
-    margin-top: 255px;
-  }
   #h3Work {
     margin-top: 220px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  #pAbout {
-    margin-top: 255px;
   }
   #h3Work {
     margin-top: 220px;
@@ -81,7 +78,6 @@ img {
 }
 
 @media screen and (max-width: 765px) {
-  #pAbout,
   #h3Work {
     margin-top: 0px;
   }
