@@ -12,6 +12,7 @@ _This webpage is an online portfolio for Caitlin Ashtari. Click through the page
 
 * _Clone this repository_
 * _Open a simple HTTP server_
+* _Click the link: https://caitlinashtari.github.io/portfolio/
 * _Enjoy!_
 
 ## Known Bugs
@@ -25,6 +26,10 @@ _If you encounter any issues, have suggestions or ideas, please contact Caitlin 
 ## Technologies Used
 
 _HTML, CSS, Bootstrap_
+
+## Here's the link to the GH-Pages, again... JIC
+
+_https://caitlinashtari.github.io/portfolio/_
 
 ### License
 
