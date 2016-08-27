@@ -12,7 +12,8 @@ body {
 }
 
 .navbar,
-body {
+body,
+.row {
   max-width: 1000px;
 }
 
@@ -25,6 +26,10 @@ body {
  #myContact {
   padding-top: 180px;
   padding-bottom: 230px;
+}
+
+ #pAbout {
+  margin-top: 300px;
 }
 
 
@@ -41,7 +46,28 @@ img {
   height: 540px;
 }
 
-#imgAbout {
-  width: 500px
-  height: auto;
+#myAboutImg {
+  width: 400px;
+  height: 50%;
+}
+
+/* Media Queries
+=================================*/
+
+@media screen and (max-width: 1000px){
+  #pAbout {
+    margin-top: 255px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #pAbout {
+    margin-top: 255px;
+  }
+}
+
+@media screen and (max-width: 765px) {
+  #pAbout {
+    margin-top: 0px;
+  }
 }
